@@ -6,12 +6,7 @@
 
 El objetivo es diseñar e implementar una aplicación con Ruby on Rails para el manejo de solicitudes de reparaciones en una cadena de tiendas.
 
-Cualquier pregunta, unete a nuestro slack para recruiting https://join.slack.com/share/zt-kdmu8h1u-kRbY15SKwBLYEbdUURYwIg
-Pruebas adicionales:
-- React: https://classroom.github.com/a/_5y8V7TF
-- Ruby: https://classroom.github.com/a/OpZ35bbt
-- Go and Flutter coming soon!
-
+Recuerda que no tenemos un timeline, reclutamos on a rolling basis. Recuerda de actualizar el form que recibiste en tu correo cuando termines la prueba. Al completar la prueba tecinca avisanos por aca (usa el mismo correo): https://airtable.com/shrfLtBYqMg3jY3dc
 Recuerda que no tenemos un timeline, reclutamos on a rolling basis, pero estaremos moviendo a personas a la siguiente fase la primera semana de Enero
 
 ## 🦶 Pasos
